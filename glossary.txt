@@ -3,24 +3,24 @@ Complete at least TWO definitions in your own words (lab Part 2).
 Then add your name and GitHub username on the last line.
 
 Import:
-  Your definition:
+  Your definition: Copies an existing repository into a GitHub account WITHOUT keeping a connection to the original repository.
 
 Clone:
-  Your definition:
+  Your definition: Downloads a copy of a repository onto the local computer to work on it LOCALLY.
 
 Fork:
-  Your definition:
+  Your definition: Creates a copy of someone else's repository on GitHub while keeping a LINK to the original.
 
 Branch:
-  Your definition:
+  Your definition: A separate version of a repository where changes can be made without affecting the main branch.
 
 Pull request:
-  Your definition:
+  Your definition: A request to have a developer's changes reviewed and merged into another branch or repository.
 
 Merge:
-  Your definition:
+  Your definition: Combines changes from one branch into another branch.
 
 Upstream tracking (git push -u):
-  Your definition:
+  Your definition: Connects the local branch to a remote branch so future pushes can use just git push.
 
-Completed by:
+Completed by: Sean De Guzman (SDG765)
